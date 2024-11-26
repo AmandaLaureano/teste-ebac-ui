@@ -6,7 +6,7 @@ describe('Funcionalidade Login', () => {
         cy.visit('http://lojaebac.ebaconline.art.br/minha-conta/')
     })
 
-    it('Deve fazer login com sucesso', () => {
+    it.only('Deve fazer login com sucesso', () => {
         cy.get('#username').type('amandalaureano4@gmail.com')
         cy.get('#password').type('123456@')
         cy.get('.woocommerce-form > .button').click()
@@ -23,7 +23,7 @@ describe('Funcionalidade Login', () => {
         cy.get('.woocommerce-error').should('exist')
     })
 
-    it.only('Deve exibir mensagem de erro ao inserir senha errada', () => {
+    it('Deve exibir mensagem de erro ao inserir senha errada', () => {
         cy.get('#username').type('amandalaureano4@gmail.com')
         cy.get('#password').type('123456@*')
         cy.get('.woocommerce-form > .button').click()
