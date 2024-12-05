@@ -1,0 +1,56 @@
+[
+    {
+        "nomeProduto": "Aero Daily Fitness Tee",
+        "tamanho": "XS",
+        "cor": "Black",
+        "quantidade": 3
+    },
+    {
+        "nomeProduto": "Atomic Endurance Running Tee (V-neck)",
+        "tamanho": "M",
+        "cor": "Blue",
+        "quantidade": 1
+    },
+    {
+        "nomeProduto": "Augusta Pullover Jacket",
+        "tamanho": "L",
+        "cor": "Orange",
+        "quantidade": 2
+    },
+    {
+        "nomeProduto": "Autumn Pullie",
+        "tamanho": "XL",
+        "cor": "Red",
+        "quantidade": 4
+    },
+    {
+        "nomeProduto": "Balboa Persistence Tee",
+        "tamanho": "S",
+        "cor": "Gray",
+        "quantidade": 1
+    },
+    {
+        "nomeProduto": "Bruno Compete Hoodie",
+        "tamanho": "XS",
+        "cor": "Green",
+        "quantidade": 5
+    },
+    {
+        "nomeProduto": "Caesar Warm-Up Pant",
+        "tamanho": "36",
+        "cor": "Purple",
+        "quantidade": 1
+    },
+    {
+        "nomeProduto": "Cassia Funnel Sweatshirt",
+        "tamanho": "XS",
+        "cor": "White",
+        "quantidade": 2
+    },
+    {
+        "nomeProduto": "Cassius Sparring Tank",
+        "tamanho": "XL",
+        "cor": "Blue",
+        "quantidade": 1
+    }      
+]
